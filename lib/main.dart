@@ -39,7 +39,7 @@ class MyHomePage extends StatelessWidget {
                   }, child: Text('Close')),
               ],
               title: Text('Flutter App'),
-              contentPadding: EdgeInsets.all(8),
+              contentPadding: EdgeInsets.all(20),
               content: Text('lets chill'),
             )
             );
